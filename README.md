@@ -40,5 +40,5 @@ Once activated, the environment is ready to run the notebooks.
 | Project | Description | Start Date |
 |--------|------------|------------|
 | `sleep_data` | Exploratory analysis and modeling of sleep-related data of mammals | Feb 27, 2026 || 
-| `screen_time` | Exploratory analysis and modeling of screen time  of different groups of people | XXX || 
+| `football` | Analysis of football matches | Jul 1, 2026 ||
 
